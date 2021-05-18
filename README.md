@@ -2,7 +2,7 @@
 
 <p align="center">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.</p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/akhil-goyal?tab=followers">
     <img src="https://img.shields.io/github/stars/akhil-goyal?label=Stars&logo=GitHub&style=flat-square" alt="GitHub badge" />
   </a>
@@ -12,7 +12,28 @@
   <a href="https://www.linkedin.com/in/akhil-goyal-780a5b136">
     <img src="https://img.shields.io/badge/LinkedIn-3.5K-blue?label=LinkedIn&logo=LinkedIn&style=flat-square" alt="Linkedin Badge" />
   </a>
-</p>
+</div>
+
+
+---
+
+## Toolbox
+
+<div align="center">
+<img src="assets/html.svg" height=50 width=50 alt="HTML"/>
+<img src="assets/css.svg" height=50 width=50 alt="CSS"/>
+<img src="assets/javascript.svg" height=50 width=50 alt="JavaScript"/>
+<img src="assets/react.svg" height=50 width=50 alt="React.JS"/>
+<img src="assets/redux.svg" height=50 width=50 alt="Redux"/>
+<img src="assets/node.svg" height=50 width=50 alt="Node.JS"/>
+<img src="assets/express.svg" height=50 width=50 alt="Express.JS"/>
+<img src="assets/mongodb.svg" height=50 width=50 alt="Mongo DB"/>
+<img src="assets/firebase.svg" height=50 width=50 alt="Firebase"/>
+<img src="assets/babel.svg" height=50 width=50 alt="Babel"/>
+<img src="assets/webpack.svg" height=50 width=50 alt="Webpack"/>
+<img src="assets/gatsby.svg" height=50 width=50 alt="Gatsby"/>
+</div>
+
 
 ---
 
