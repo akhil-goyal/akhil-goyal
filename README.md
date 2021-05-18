@@ -22,9 +22,9 @@
 
 <p align="center">
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;">
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-evenly;">
 <img src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
 </div>
