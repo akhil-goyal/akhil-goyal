@@ -9,7 +9,11 @@
   </a>
 
   <a href="http://twitter.com/akhilgoyal_">
-    <img src="https://img.shields.io/twitter/follow/akhilgoyal_?label=Twitter&logo=twitter&style=flat-square" alt="Twitter Badge />
+    <img src="https://img.shields.io/twitter/follow/akhilgoyal_?label=Twitter&logo=twitter&style=flat-square" alt="Twitter Badge"/>
+  </a>
+
+  <a href="https://medium.com/@akhilgoyal_">
+    <img src="assets/medium.svg" alt="Medium Badge"/>
   </a>
 
   <a href="https://www.linkedin.com/in/akhil-goyal-780a5b136">
