@@ -4,11 +4,11 @@
 
 <p align="center">
 
-  <a width="48%" href="https://github.com/akhil-goyal?tab=followers">
+  <a href="https://github.com/akhil-goyal?tab=followers">
     <img src="https://img.shields.io/github/stars/akhil-goyal?label=Stars&logo=GitHub&style=flat-square" alt="GitHub badge" />
   </a>
 
-  <a width="48%" href="http://twitter.com/akhilgoyal_">
+  <a href="http://twitter.com/akhilgoyal_">
     <img src="https://img.shields.io/twitter/follow/akhilgoyal_?label=Twitter&logo=twitter&style=flat-square" />
   </a>
 
@@ -23,9 +23,9 @@
 ## My Github Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-goyal&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-goyal&theme=tokyonight" />
 </p>
 
 
