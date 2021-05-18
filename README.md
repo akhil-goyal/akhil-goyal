@@ -20,12 +20,20 @@
 
 ---
 
-## My Github Stats
+## Github Stats
 
 <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-goyal&theme=tokyonight" />
+
+<div style="display: flex;"> 
+
+<div style="display: flex; flex-direction: column;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
+</div>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-goyal&theme=tokyonight" />
+
+</div>
 </p>
 
 
@@ -36,6 +44,10 @@
   <tr>
     <th>Author</th>
     <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/jesse-mykolyn-6a733693/">Jesse Mykolyn</a></td>
+    <td>Akhil demonstrates many of the behaviors that I associate with successful developers and colleagues in general. He is knowledgeable, invested in learning, receptive to feedback, and generally supportive. I believe that Akhil would be an excellent member of any development team.</td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/felice-forte-033289203/">Felice Forte</a></td>
