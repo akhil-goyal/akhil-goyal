@@ -24,11 +24,12 @@
 
 <p>
 
-  <div align="center" style="display: grid; grid-template-columns: 1fr; gap: 25px;">
+  <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px;">
   <img style="display: block;" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-goyal&theme=tokyonight" />
+  <div>
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
-  
+  </div>
   </div>
 
 </p>
