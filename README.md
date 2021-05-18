@@ -50,3 +50,17 @@
 </table>
 
 <h1 align="center">❞</h1>
+
+## Let's Connect
+
+<div align="center">
+
+[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/akhil.goyal.73997)
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/akhilgoyal_)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/akhilgoyal_/)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/akhil-goyal-780a5b136/)
+[![](https://img.shields.io/badge/-Medium-informational?style=for-the-badge&logo=medium&logoColor=white&color=198917)](https://medium.com/@akhilgoyal_)
+[![](https://img.shields.io/badge/-BLOG-informational?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)](https://topcoded.com/)
+[![](https://img.shields.io/badge/-Portfolio-informational?style=for-the-badge&logoColor=white&color=000000)](https://www.akhilgoyal.com/)
+
+</div>
