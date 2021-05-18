@@ -9,11 +9,11 @@
   </a>
 
   <a href="http://twitter.com/akhilgoyal_">
-    <img src="https://img.shields.io/twitter/follow/akhilgoyal_?label=Twitter&logo=twitter&style=flat-square" />
+    <img src="https://img.shields.io/twitter/follow/akhilgoyal_?label=Twitter&logo=twitter&style=flat-square" alt="Twitter Badge />
   </a>
 
   <a href="https://www.linkedin.com/in/akhil-goyal-780a5b136">
-    <img src="https://img.shields.io/badge/LinkedIn-3.5K-blue?label=LinkedIn&logo=LinkedIn&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-3.5K-blue?label=LinkedIn&logo=LinkedIn&style=flat-square" alt="Linkedin Badge" />
   </a>
 
 </p>
@@ -35,7 +35,7 @@
 </p>
 
 
-<h4 align="center">Testimonials</h4>
+## Testimonials
 <h1 align="center">❝</h1>
 
 <table>
