@@ -24,9 +24,11 @@
 
 <p align="center">
 
+  <div style="display: grid; grid-template-columns: 1fr;">
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-goyal&theme=tokyonight" />
+  </div>
 
 </p>
 
