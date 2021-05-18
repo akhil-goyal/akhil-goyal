@@ -22,7 +22,7 @@
 
 ## Github Stats
 
-<p>
+<p align="center">
 
 <div style="display: flex;"> 
 
