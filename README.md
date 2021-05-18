@@ -25,8 +25,8 @@
 <div style="display: flex;">
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around;">
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
- <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=akhil-goyal&show_icons=true&theme=tokyonight" />
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-goyal&theme=tokyonight" />
 </div>
 
 
