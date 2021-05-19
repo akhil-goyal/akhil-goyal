@@ -15,6 +15,8 @@
   </a>
 </div>
 
+---
+
 <h1 align="center">Toolbox</h1>
 
 <div align="center">
@@ -32,6 +34,8 @@
 <img src="assets/gatsby.svg" height=50 width=50 alt="Gatsby"/>
 </div>
 
+---
+
 <h1 align="center">Github Stats</h1>
 
 <p>
@@ -45,6 +49,8 @@
   </div>
 
 </p>
+
+---
 
 <h1 align="center">Testimonials</h1>
 
@@ -66,6 +72,8 @@
 </table>
 
 <h1 align="center">❞</h1>
+
+---
 
 <h1 align="center">Let's connect</h1>
 
