@@ -46,7 +46,8 @@
 
 </p>
 
-## Testimonials
+<h1 align="center">Testimonials</h1>
+
 <h1 align="center">❝</h1>
 
 <table>
@@ -66,7 +67,7 @@
 
 <h1 align="center">❞</h1>
 
-## Let's Connect
+<h1 align="center">Let's connect</h1>
 
 <div align="center">
 
