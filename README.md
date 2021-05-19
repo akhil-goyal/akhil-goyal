@@ -15,8 +15,6 @@
   </a>
 </div>
 
----
-
 ## Toolbox
 
 <div align="center">
@@ -34,9 +32,6 @@
 <img src="assets/gatsby.svg" height=50 width=50 alt="Gatsby"/>
 </div>
 
-
----
-
 ## Github Stats
 
 <p>
@@ -50,7 +45,6 @@
   </div>
 
 </p>
-
 
 ## Testimonials
 <h1 align="center">❝</h1>
