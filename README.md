@@ -15,7 +15,7 @@
   </a>
 </div>
 
-## Toolbox
+<h1 align="center">Toolbox</h1>
 
 <div align="center">
 <img src="assets/html.svg" height=50 width=50 alt="HTML"/>
