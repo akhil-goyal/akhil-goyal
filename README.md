@@ -32,7 +32,7 @@
 <img src="assets/gatsby.svg" height=50 width=50 alt="Gatsby"/>
 </div>
 
-## Github Stats
+<h1 align="center">Github Stats</h1>
 
 <p>
 
