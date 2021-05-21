@@ -66,6 +66,10 @@
     <td>Akhil demonstrates many of the behaviors that I associate with successful developers and colleagues in general. He is knowledgeable, invested in learning, receptive to feedback, and generally supportive. I believe that Akhil would be an excellent member of any development team.</td>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/corycoletta/">Cory Coletta</a></td>
+    <td>Akhil’s assignments were always on time, above expectations, and well done. He has consistently scored at the top of his class and seeks feedback to improve on each assignment. Based on this academic performance, I am confident this will translate to the workplace, and he will excel in any role.</td>
+  </tr>
+  <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/felice-forte-033289203/">Felice Forte</a></td>
     <td>I had the pleasure of having Akhil as a student for a term in the Web Design Planning and Prototyping course that I teach at Humber College. I found his work to be exceptional in quality, well thought out, and delivered in a timely manner.</td>
   </tr>
