@@ -1,7 +1,7 @@
 <h1 align="center">Hello! <img src="assets/wave.gif" width="30px"></h1>
 
 <p align="center">I am Akhil.</p>
-<p align="center">Designer, Blogger & MERN Stack Developer</p>
+<p align="center">Designer, Blogger & Front End Developer</p>
 
 <div align="center">
   <a href="https://github.com/akhil-goyal?tab=followers">
